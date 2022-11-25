@@ -1,0 +1,20 @@
+html {
+    background-color: #ffccb3;
+}
+
+h1 {
+ font-style: italic;
+}
+
+.picture {
+    height: 350px;
+    width: auto;
+}
+
+.links {
+    height: 50px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    
+}
