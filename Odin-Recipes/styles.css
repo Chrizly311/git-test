@@ -1,21 +1,23 @@
 html {
-    background-color: linear-gradient(#5ca1cf, #e764c6;
+    background-color: #f39f3f
+    ;
 }
 
 h1 {
  font-style: italic;
 }
 
-.picture {
-    height: 150px;
-    width: auto;
+img {
+    height: 350px;
+    width: 550px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
 }
 
-.topics {
+.links {
     height: 100px;
-    width: 250px;
+    width: 350px;
     display: flex;
-    flex-direction: column;
-    border: 1px bold grey;
-    
+    flex-direction: row;
+    justify-content: space-around;
 }
