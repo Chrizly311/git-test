@@ -1,5 +1,5 @@
 html {
-    background-color: #ffccb3;
+    background-color: linear-gradient(#5ca1cf, #e764c6;
 }
 
 h1 {
@@ -7,14 +7,15 @@ h1 {
 }
 
 .picture {
-    height: 350px;
+    height: 150px;
     width: auto;
 }
 
-.links {
-    height: 50px;
-    width: 1000px;
+.topics {
+    height: 100px;
+    width: 250px;
     display: flex;
     flex-direction: column;
+    border: 1px bold grey;
     
 }
